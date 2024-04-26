@@ -1,0 +1,10 @@
+Material My shiny custom material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Textures/Terrain/Pond/Pond.jpg
+        NormalMap : Textures/Terrain/Pond/Pond_normal.png
+        UseMaterialColors : true
+        Specular : 1.0 0.30 0.0 1.0
+        Diffuse : 1.0 0.30 0.0 0.8
+        Shininess : 10.0
+     }
+}
